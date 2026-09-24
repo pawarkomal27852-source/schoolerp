@@ -1,0 +1,6 @@
+{
+  "name": "SchoolERP - School Management Platform",
+  "description": "Comprehensive school administrative portal for managing students, classes, attendance, fees, payments, reports, and institutional settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
